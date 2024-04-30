@@ -27,14 +27,23 @@ namespace REGEX
 
         public void ValidPhoneNo(string name)
         {
-            string pattern = "\\+\\d{2}\\s[0-9]{10}";
+            string pattern = @"\+\d{2}\s[0-9]{10}";
             Regex r1 = new Regex(pattern);
             if (r1.IsMatch(name))
-                Console.WriteLine("Valid Email");
+                Console.WriteLine("Valid Number");
             else
                 Console.WriteLine("Invalid");
         }
 
+        public void ValidPassword(string name)
+        {
+            var pattern = @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*()_+={}[\]\\|:;<>,.?/]).{8,}$";
+            Regex r1 = new Regex(pattern);
+            if (r1.IsMatch(name))
+                Console.WriteLine("Valid Password");
+            else
+                Console.WriteLine("Invalid Password");
+        }
 
         static void Main(string[] args)
         {
@@ -51,7 +60,10 @@ namespace REGEX
             program.ValidEmail(email);
             Console.WriteLine("Enter Phone No");
             string phoneno = Console.ReadLine();
-            program.ValidEmail(phoneno);
+            program.ValidPhoneNo(phoneno);
+            Console.WriteLine("Enter Password");
+            string password = Console.ReadLine();
+            program.ValidPassword(password);
 
         }
     }
