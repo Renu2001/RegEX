@@ -15,6 +15,19 @@ namespace REGEX
                 Console.WriteLine("First letter should be capital and Minimum 3 characters");
         }
 
+        public void ValidEmail(string name)
+        {
+            string pattern = "\\w+.(\\w+)?@\\w+.(\\w+){2,3}.((\\w+){2,3})?";
+            Regex r1 = new Regex(pattern);
+            if (r1.IsMatch(name))
+                Console.WriteLine("Valid Email");
+            else
+                Console.WriteLine("First letter should be capital and Minimum 3 characters");
+        }
+
+
+
+
         static void Main(string[] args)
         {
             Console.WriteLine("User Registration UC");
@@ -25,6 +38,9 @@ namespace REGEX
             Console.WriteLine("Enter LastName");
             string lastname = Console.ReadLine();
             program.ValidName(lastname);
+            Console.WriteLine("Enter Email");
+            string email = Console.ReadLine();
+            program.ValidEmail(email);
 
         }
     }
