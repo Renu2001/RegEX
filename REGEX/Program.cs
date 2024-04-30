@@ -5,24 +5,27 @@ namespace REGEX
     internal class Program
     {
 
-        public bool ValidName()
+        public void ValidName(string name)
         {
-            Console.WriteLine("Enter FirstName");
-            string firstname = Console.ReadLine();
             string pattern = "^[A-Z][a-z]{2,}";
             Regex r = new Regex(pattern);
-            if (r.IsMatch(firstname))
-                return true;
+            if (r.IsMatch(name))
+                Console.WriteLine("Valid Name");
             else
-                return false;
+                Console.WriteLine("First letter should be capital and Minimum 3 characters");
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine("User Registration UC");
             Program program = new Program();
-            Console.Write(program.ValidName());
-            
+            Console.WriteLine("Enter FirstName");
+            string firstname = Console.ReadLine();
+            program.ValidName(firstname);
+            Console.WriteLine("Enter LastName");
+            string lastname = Console.ReadLine();
+            program.ValidName(lastname);
+
         }
     }
 }
