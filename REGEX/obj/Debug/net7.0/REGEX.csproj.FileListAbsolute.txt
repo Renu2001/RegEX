@@ -1,0 +1,15 @@
+D:\BridgeLabz Assignment\UserRegistration\REGEX\bin\Debug\net7.0\REGEX.exe
+D:\BridgeLabz Assignment\UserRegistration\REGEX\bin\Debug\net7.0\REGEX.deps.json
+D:\BridgeLabz Assignment\UserRegistration\REGEX\bin\Debug\net7.0\REGEX.runtimeconfig.json
+D:\BridgeLabz Assignment\UserRegistration\REGEX\bin\Debug\net7.0\REGEX.dll
+D:\BridgeLabz Assignment\UserRegistration\REGEX\bin\Debug\net7.0\REGEX.pdb
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.AssemblyInfoInputs.cache
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.AssemblyInfo.cs
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.sourcelink.json
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.dll
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\refint\REGEX.dll
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.pdb
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\REGEX.genruntimeconfig.cache
+D:\BridgeLabz Assignment\UserRegistration\REGEX\obj\Debug\net7.0\ref\REGEX.dll
