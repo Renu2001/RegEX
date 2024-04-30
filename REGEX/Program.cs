@@ -22,10 +22,18 @@ namespace REGEX
             if (r1.IsMatch(name))
                 Console.WriteLine("Valid Email");
             else
-                Console.WriteLine("First letter should be capital and Minimum 3 characters");
+                Console.WriteLine("Invalid");
         }
 
-
+        public void ValidPhoneNo(string name)
+        {
+            string pattern = "\\+\\d{2}\\s[0-9]{10}";
+            Regex r1 = new Regex(pattern);
+            if (r1.IsMatch(name))
+                Console.WriteLine("Valid Email");
+            else
+                Console.WriteLine("Invalid");
+        }
 
 
         static void Main(string[] args)
@@ -41,6 +49,9 @@ namespace REGEX
             Console.WriteLine("Enter Email");
             string email = Console.ReadLine();
             program.ValidEmail(email);
+            Console.WriteLine("Enter Phone No");
+            string phoneno = Console.ReadLine();
+            program.ValidEmail(phoneno);
 
         }
     }
