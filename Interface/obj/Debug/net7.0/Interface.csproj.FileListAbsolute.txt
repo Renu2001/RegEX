@@ -1,0 +1,15 @@
+D:\BridgeLabz Assignment\UserRegistration\Interface\bin\Debug\net7.0\Interface.exe
+D:\BridgeLabz Assignment\UserRegistration\Interface\bin\Debug\net7.0\Interface.deps.json
+D:\BridgeLabz Assignment\UserRegistration\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+D:\BridgeLabz Assignment\UserRegistration\Interface\bin\Debug\net7.0\Interface.dll
+D:\BridgeLabz Assignment\UserRegistration\Interface\bin\Debug\net7.0\Interface.pdb
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.sourcelink.json
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.dll
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\refint\Interface.dll
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.pdb
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+D:\BridgeLabz Assignment\UserRegistration\Interface\obj\Debug\net7.0\ref\Interface.dll

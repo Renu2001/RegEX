@@ -1,0 +1,15 @@
+D:\BridgeLabz Assignment\UserRegistration\object\bin\Debug\net7.0\object.exe
+D:\BridgeLabz Assignment\UserRegistration\object\bin\Debug\net7.0\object.deps.json
+D:\BridgeLabz Assignment\UserRegistration\object\bin\Debug\net7.0\object.runtimeconfig.json
+D:\BridgeLabz Assignment\UserRegistration\object\bin\Debug\net7.0\object.dll
+D:\BridgeLabz Assignment\UserRegistration\object\bin\Debug\net7.0\object.pdb
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.AssemblyInfoInputs.cache
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.AssemblyInfo.cs
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.sourcelink.json
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.dll
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\refint\object.dll
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.pdb
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\object.genruntimeconfig.cache
+D:\BridgeLabz Assignment\UserRegistration\object\obj\Debug\net7.0\ref\object.dll
